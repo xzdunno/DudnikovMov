@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
         bind.vidView.setMediaController(null)
 
         val animat: Animation = AlphaAnimation(0.0f, 1.0f)
-        animat.duration = 800 //You can manage the blinking time with this parameter
+        animat.duration = 800 
         animat.startOffset = 20
         animat.repeatMode = Animation.REVERSE
         animat.repeatCount = Animation.INFINITE
