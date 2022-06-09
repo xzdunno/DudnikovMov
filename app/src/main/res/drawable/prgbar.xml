@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clip android:clipOrientation="vertical" android:gravity="center_vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<layer-list>
+    <item android:id="@android:id/background" android:drawable="@drawable/ic_prgbar">
+    </item>
+    <item android:id="@android:id/progress" android:drawable="@drawable/ic_prgbar">
+    </item>
+</layer-list>
+</clip>
+
+
+
+
+<!--    <?xml version="1.0" encoding="utf-8"?>-->
+<!--<clip android:clipOrientation="vertical" android:gravity="center_vertical"-->
+<!--xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!--<layer-list xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!--    <color android:color="#ec407a"></color>-->
+<!--    <item android:id="@android:id/background" android:drawable="@drawable/ic_prgbar">-->
+<!--        <color android:color="#ec407a"></color>-->
+<!--    </item>-->
+<!--    <item android:id="@android:id/progress" android:drawable="@drawable/ic_prgbar">-->
+
+<!--        <color android:color="#ec407a"></color>-->
+<!--    </item>-->
+<!--</layer-list>-->
+<!--</clip>-->

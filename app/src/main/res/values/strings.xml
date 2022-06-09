@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DudnikovMov</string>
+    <string name="tap_btn">Нажмите на кнопку для перехода</string>
 </resources>
